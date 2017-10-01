@@ -54,7 +54,7 @@ Let's take a look at one of the key binding definitions:
 }
 ```
 
-Just change ```key_code to any key you'd like such as a b c d``` 
+Just change ```key_code``` to any key you'd like such as ```a b c d``` 
 
 You can also change the modifier key to some of these:
 
